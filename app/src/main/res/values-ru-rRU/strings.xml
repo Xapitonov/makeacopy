@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MakeACopy</string>
+    
+    <!-- Новые пункты меню для сканера документов -->
+    <string name="title_camera">Камера</string>
+    <string name="title_crop">Обрезка</string>
+    <string name="title_ocr">OCR</string>
+    <string name="title_export">Экспорт</string>
+    
+    <!-- Подписи на кнопках -->
+    <string name="btn_scan">Сканировать документ</string>
+    <string name="btn_crop">Обрезать</string>
+    <string name="btn_process">Обработать</string>
+    <string name="btn_export">Экспортировать</string>
+    <string name="btn_share">Поделиться</string>
+    
+    <!-- Сообщения -->
+    <string name="msg_camera_permission_required">Требуется разрешение на использование камеры для сканирования документов</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="review_your_scan_tap_confirm_to_proceed_or_retake_to_try_again">Проверьте скан. Нажмите Подтвердить для продолжения или Переснять для повторной попытки.</string>
+    <string name="camera_ready_tap_the_button_to_scan_a_document">Камера готова. Нажмите кнопку для сканирования документа.</string>
+    <string name="captured_image">Сделанное фото</string>
+    <string name="retake">Переснять</string>
+    <string name="image_to_crop">Изображение для обрезки</string>
+    <string name="cropped_image">Обрезанное изображение</string>
+    <string name="recrop">Обрезать заново</string>
+    <string name="document_preview">Предварительный просмотр документа</string>
+    <string name="include_ocr_text">Включить текст OCR</string>
+    <string name="language">Язык:</string>
+    <string name="ocr_results_will_appear_here">Результаты OCR появятся здесь</string>
+    <string name="no_image_loaded_capture_an_image_first">Изображение не загружено. Сначала сделайте фото.</string>
+    <string name="adjust_the_trapezoid_corners_to_select_the_area_to_crop_then_tap_the_crop_button">Настройте углы трапеции для выбора области обрезки, затем нажмите кнопку Обрезать.</string>
+    <string name="review_your_cropped_image_tap_confirm_to_proceed_or_recrop_to_try_again">Просмотрите обрезанное изображение. Нажмите Подтвердить, чтобы продолжить, или Обрезать заново для повторной попытки.</string>
+    <string name="no_document_ready_process_ocr_first">Документ не готов. Сначала выполните OCR.</string>
+    <string name="document_ready_for_export">Документ готов к экспорту</string>
+    <string name="processing_image">Обработка изображения...</string>
+    <string name="no_image_processed_crop_an_image_first">Изображение не обработано. Сначала обрежьте изображение.</string>
+    <string name="ocr_processing_complete_tap_the_button_to_proceed_to_export">Обработка OCR завершена. Нажмите кнопку для перехода к экспорту.</string>
+
+    <!-- Опции экспорта -->
+    <string name="convert_to_grayscale">Преобразовать в оттенки серого</string>
+    
+    <!-- Опции вспышки -->
+    <string name="toggle_flashlight">Включить/выключить вспышку</string>
+    <string name="flashlight_on">Вспышка включена</string>
+    <string name="flashlight_off">Вспышка выключена</string>
+    <string name="flashlight_not_available">Вспышка недоступна на этом устройстве</string>
+    <string name="low_light_detected">Обнаружено слабое освещение. Включить вспышку?</string>
+</resources>
